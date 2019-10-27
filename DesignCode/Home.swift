@@ -53,7 +53,7 @@ struct Home_Previews: PreviewProvider {
 }
 #endif
 
-struct MenuRow: View {
+struct MenuRow: View { 
 
    var image = "creditcard"
    var text = "My Account"
